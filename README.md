@@ -1,6 +1,6 @@
-# {Application Name}
+# Akan names 
 #### The application displays akan names, 11 dec 2021
-#### By **{List of contributors}**
+#### By Caleb Kavindu Keli 
 ## Description
 The web application should be able to take the gender of the user and the date of birth. Afterwards the website should be able to display their respective Akan name.
 ## Setup/Installation Requirements
